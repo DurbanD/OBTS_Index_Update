@@ -1,3 +1,14 @@
+// ==UserScript==
+// @name         OBTS Usable Index
+// @namespace    http://tampermonkey.net/
+// @version      1
+// @description  Better OBTS Index Updating
+// @author       Andrew
+// @match        https://support.obtsnetworks.com/admin/index*
+// @icon         https://www.google.com/s2/favicons?domain=obtsnetworks.com
+// @grant        none
+// ==/UserScript==
+
 (function() {
   const agentStatusDiv = document.querySelector('#agentstatus')
   const openTicketsDiv = document.querySelector('#opentickets')
