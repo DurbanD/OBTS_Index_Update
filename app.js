@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         OBTS Usable Index
-// @namespace    http://tampermonkey.net/
+// @namespace    https://support.obtsnetworks.com/
 // @version      1
 // @description  Better OBTS Index Updating
 // @author       Andrew
